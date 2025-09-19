@@ -1,3 +1,4 @@
+
 # Multiverse-Campus-Quest
 Multiverse Campus Quest
 # WorkAdventure Map: DataNexus
@@ -26,3 +27,7 @@ Credits Cyberpunk Tileset Kokoro Reflections: https://kokororeflections.com/
 2. Private Brands, Businesses, or Niche Communities can add a shop in the upcoming Multiverse-Bazaar Map. (coming soon!)
 3. Please contact tk@themultiverse.school with any comments or ideas. 
 
+=======
+# WorkAdventure Map Starter Kit - Public Folder
+
+In this directory you can put static files (audio files, PDFs, videos, images except tilesets...) that you want to be present to the players.
